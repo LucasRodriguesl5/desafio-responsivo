@@ -8,4 +8,4 @@
  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
 
 
-<img src="https://github.com/LucasRodriguesl5/Free-point-for-your-ride/blob/main/assets/imagem.jpg?raw=true"
+<img src="./assets/(Positive) Congratulation You get 40 point for your ride.png" />
